@@ -1,8 +1,19 @@
 ### Hi there 👋
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gyt95/count.svg" />
+</p>
+-->
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gyt95&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyt95&layout=compact&hide=css,html&hide_border=true&card_width=250">
+</div>
+
+<p align="right">
+<img src="https://visitor-badge.glitch.me/badge?page_id=gyt95.otaku-ui" />
 </p>
 
 <!--
