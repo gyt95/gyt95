@@ -11,7 +11,7 @@
 </div>
 
 <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gyt95.otaku-ui" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gyt95.gyt95" />
   <!-- visitor-badge.glitch.me -->
 </p>
 
